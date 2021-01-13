@@ -54,3 +54,7 @@ ul > li:before {
   justify-content: center;
   margin: 0 10px;
 }
+
+ol > li {
+  list-style: none;
+}
